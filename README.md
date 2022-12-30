@@ -1,6 +1,7 @@
 # What is ANR and how does it differ from a Crash?
 
-ANR is different from crashes in that a crash typically occurs when an app encounters an unexpected error or exception and is forced to close. An ANR, on the other hand, occurs when an app is unresponsive but has not crashed. This can be caused by a variety of factors, such as a long-running operation that is blocking the main thread, or a problem with the app's design or implementation that is causing it to become unresponsive.
+ANR is different from crashes in that a crash typically occurs when an app encounters an unexpected error or exception and is forced to close. An ANR, on the other hand, occurs when an app is unresponsive but has not crashed. In analogy, an ANR means an app is _comatose_, a Crash means an app is _dead_.
+This can be caused by a variety of factors, such as a long-running operation that is blocking the main thread, or a problem with the app's design or implementation that is causing it to become unresponsive.
 
 <img src="https://user-images.githubusercontent.com/70295997/210023576-0a917e66-fa8e-41cd-a3d3-4aefddb3141d.png" height=500><img src="https://user-images.githubusercontent.com/70295997/210023554-83583cee-20f2-468e-b567-faf6483afd00.png" height=500>
 
