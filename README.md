@@ -1,5 +1,8 @@
 # What is ANR and how does it differ from a Crash?
 
+<img src="https://user-images.githubusercontent.com/70295997/216533783-0127c21d-268f-4d73-982d-4a05b7b9174c.png" height=500>
+
+
 ANR is different from crashes in that a crash typically occurs when an app encounters an unexpected error or exception and is forced to close. An ANR, on the other hand, occurs when an app is unresponsive but has not crashed. In analogy, an ANR means an app is _comatose_, a Crash means an app is _dead_.
 This can be caused by a variety of factors, such as a long-running operation that is blocking the main thread, or a problem with the app's design or implementation that is causing it to become unresponsive.
 
@@ -22,3 +25,5 @@ Overall, ANR issues can be frustrating for users and can negatively impact the u
 [ANRs](https://developer.android.com/topic/performance/vitals/anr)
 
 [Crashes](https://developer.android.com/topic/performance/vitals/crash)
+
+[Debug your Android app based on ANR tags in the Crashlytics dashboard](https://firebase.google.com/docs/crashlytics/debug-anr-errors)
