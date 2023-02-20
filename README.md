@@ -5,7 +5,7 @@
 
 An ANR (Application Not Responding) is different from a crash in that a crash typically occurs when an app encounters an unexpected error or exception and is forced to close. An ANR, on the other hand, occurs when an app is unresponsive but has not crashed. In analogy, an __ANR__ means an app is _comatose_ 😵‍💫, a __Crash__ means an app is _dead_ 😵.
 
-<img height=500 alt="Screenshot 2023-02-19 at 7 59 19 PM" src="https://user-images.githubusercontent.com/70295997/220006293-7a884d1a-4c94-48b3-826c-a5952bf86407.png">
+<img height=400 alt="Screenshot 2023-02-19 at 7 59 19 PM" src="https://user-images.githubusercontent.com/70295997/220006293-7a884d1a-4c94-48b3-826c-a5952bf86407.png">
 
 
 ANRs and crashes are two different types of issues that can occur during mobile testing.
