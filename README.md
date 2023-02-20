@@ -27,3 +27,5 @@ Overall, ANR issues can be frustrating for users and can negatively impact the u
 [Crashes](https://developer.android.com/topic/performance/vitals/crash)
 
 [Debug your Android app based on ANR tags in the Crashlytics dashboard](https://firebase.google.com/docs/crashlytics/debug-anr-errors)
+
+[ANR vs Crash | logcat vs bugreport](https://github.com/lana-20/android-crash-anr-logcat-bugreport)
